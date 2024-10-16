@@ -1,0 +1,3 @@
+/home/mateuszkubuntu/CLionProjects/lexer/cmake-build-debug/CMakeFiles/lexer.dir
+/home/mateuszkubuntu/CLionProjects/lexer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mateuszkubuntu/CLionProjects/lexer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
